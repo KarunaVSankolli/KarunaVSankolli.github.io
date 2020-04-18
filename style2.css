@@ -59,8 +59,7 @@ li{
 }
 table {
    border-collapse: collapse;
-   padding-left: 50px;
-   padding-right: 50px;
+  
    color : white;
 
 }
@@ -110,6 +109,10 @@ iframe {
     
     color : #7EE081;
     margin-top : 30px;
+}
+.box3{
+     padding-left: 50px;
+   padding-right: 50px;
 }
 
 .endtext p {
