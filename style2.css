@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* Initializing margin and padding to avoid random values. */
+  
+    text align : center;
+}
+
+body{
+    background-color:rgb(25, 30, 68);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container{
+
+    width: 450px;
+    color : #7EE081;
+    text-align: center;
+
+}
+.container-img{
+    border-radius: 50%;
+    width: 200px;
+   
+   
+   
+    
+}
+.container p{
+    text-align: justify;
+    margin-right: 50px;
+    margin-bottom:1%;
+    margin-top:1%;
+}
+li{
+    list-style: none;
+    display: inline;
+   margin: 6px;
+}
+
+.list ol {
+   
+    text-align: center;
+    margin-left: 630px;
+    color : white;
+    margin-bottom: 20px;
+}
+.list li {
+    list-style: none;
+    display: table;
+}
+
+.list h3 {
+    text-align: center;
+    color :  #7EE081;
+    margin-top: 50px;
+   
+}
+table {
+   border-collapse: collapse;
+   padding-left: 50px;
+   padding-right: 50px;
+   color : white;
+
+}
+table,th,td {
+    border : 1px solid  #7EE081;
+    text-align: center;
+}
+th {
+  
+    height : 50px;
+    color:  #7EE081;
+    
+}
+
+iframe {
+    border: 1px solid  #7EE081;
+    border-radius: 10px;
+}
+
+.videotext h2 {
+  
+    font-size: 20px;
+    font-weight: 100;
+    color:#462255;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.youtube iframe {
+    border: 3px solid white;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+}
+
+.box {
+    color:#7EE081;
+    text-align: center;
+     margin-top: 30px;
+}
+.box p,ul {
+    color: white;
+    margin-top: 10px;
+}
+.box-2{
+    
+    color : #7EE081;
+    margin-top : 30px;
+}
+
+.endtext p {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    color:#7EE081;
+}
